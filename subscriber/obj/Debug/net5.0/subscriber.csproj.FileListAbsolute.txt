@@ -1,0 +1,17 @@
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/subscriber.deps.json
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/subscriber.runtimeconfig.json
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/subscriber.runtimeconfig.dev.json
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/subscriber.dll
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/ref/subscriber.dll
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/subscriber.pdb
+/Users/alicicek/vscode/rabbitmq/subscriber/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.csproj.AssemblyReference.cache
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.AssemblyInfoInputs.cache
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.AssemblyInfo.cs
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.csproj.CoreCompileInputs.cache
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.csproj.CopyComplete
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.dll
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/ref/subscriber.dll
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.pdb
+/Users/alicicek/vscode/rabbitmq/subscriber/obj/Debug/net5.0/subscriber.genruntimeconfig.cache

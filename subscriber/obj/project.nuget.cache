@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tp8o5xvKg7ZsW8TqTQdHQsWeuwr3b2hDq/nfBKVnxfm+ad4Uvy169hlqDCj3NPlMXCo56UiEVA3FX2w/AnLX4w==",
+  "success": true,
+  "projectFilePath": "/Users/alicicek/vscode/rabbitmq/subscriber/subscriber.csproj",
+  "expectedPackageFiles": [
+    "/Users/alicicek/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/alicicek/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/alicicek/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
